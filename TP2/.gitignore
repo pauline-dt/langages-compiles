@@ -1,0 +1,10 @@
+hello
+test_options
+types
+calculs
+fiche_interactive
+convertisseur
+*.o
+*.i
+*.s
+*.exe
